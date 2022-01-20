@@ -1,0 +1,1 @@
+A google app script that generates google form quizzes from markfown files on a git repo. OAuth2 library(id:1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF) required. The entry point should be a google spread sheet, which will store links to google forms and markdown file.
